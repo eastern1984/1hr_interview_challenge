@@ -1,0 +1,8 @@
+.weather-by-hour {
+  border: 1px solid #000;
+  border-radius: 8px;
+  display: inline-block;
+  text-align: center;
+  margin: 8px;
+  padding: 8px;
+}
